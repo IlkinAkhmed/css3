@@ -1,0 +1,225 @@
+/* #big{
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    background-color: orange;
+}
+#eye1{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 130px;
+    left: 90px;
+}
+#eye2{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 130px;
+    right: 90px;
+}
+#mouth{
+    background-color: black;
+    width: 200px;
+    height: 20px;
+    position: absolute;
+    top: 290px;
+    left: 100px;
+    border-radius: 20px;
+} */
+
+
+
+
+/* .red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    z-index: -1;
+    top: 300px;
+    left: 300px;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(139, 139, 7);
+    position: absolute;
+    top: 360px;
+    left: 250px;
+
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 280px;
+    left: 360px;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    
+    top: 250px;
+    left: 320px;
+} */
+
+.head{
+    position: relative;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    top: 100px;
+    left: 100px;
+}
+.eye1{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    left: 10px;
+    top: 12px;
+
+}
+.eye2{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    right: 10px;
+    top: 12px;
+
+}
+.mouth{
+    width: 25px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    border-radius: 8px;
+    top: 30px;
+    left: 12px;
+}
+.body{
+    width: 50px;
+    height: 150px;
+    background-color: black;
+    border-radius: 10px;
+    position: relative;
+    top: 110px;
+    left: 100px;
+}
+.button1{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: white;
+    border-radius: 100%;
+    left: 17px;
+    top: 15px;
+}
+.button2{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: white;
+    border-radius: 100%;
+    left: 17px;
+    top: 40px;
+}
+.button3{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: white;
+    border-radius: 100%;
+    left: 17px;
+    top: 65px;
+}
+.arm1{
+    width: 80px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    bottom: 30px;
+    left: 10px;
+    
+}
+.arm2{
+    width: 80px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    bottom: 45px;
+    left: 160px;
+}
+.leg1{
+    width: 15px;
+    height: 150px;
+    background-color: black;
+    position: relative;
+    top: 80px;
+    left: 90px;
+}
+.leg2{
+    width: 15px;
+    height: 150px;
+    background-color: black;
+    position: relative;
+    bottom: 70px;
+    left: 145px;
+}
+.legg1{
+    width: 40px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    top: 155px;
+    right: 10px;
+}
+.legg2{
+    width: 40px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    top: 155px;
+    left: 10px;
+}
+.flower1{
+    width: 15px;
+    height: 70px;
+    background-color: green;
+    bottom: 1px;
+    left: 65px;
+    position: absolute;
+}
+.flower2{
+    width: 30px;
+    height: 20px;
+    background-color: red;
+    position: absolute;
+    bottom: 60px;
+    left: 58px;
+}
+.card{
+    margin-left: 100px;
+}
+.body:hover{
+    background-color: blue;
+    transition: 1s;
+}
+.flower2:hover{
+    background-color: yellow;
+}
